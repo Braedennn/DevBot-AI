@@ -1,0 +1,5 @@
+{
+  "name": "DevBot AI - Gemini 3 Pro",
+  "description": "An advanced AI coding assistant powered by Google's Gemini 3 Pro Preview model, designed to help you generate code, debug, and solve complex technical problems.",
+  "requestFramePermissions": []
+}
